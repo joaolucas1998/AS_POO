@@ -1,0 +1,14 @@
+C:\Users\jao\Desktop\Deusmeajuda\AS\bin\Debug\net8.0\AS.exe
+C:\Users\jao\Desktop\Deusmeajuda\AS\bin\Debug\net8.0\AS.deps.json
+C:\Users\jao\Desktop\Deusmeajuda\AS\bin\Debug\net8.0\AS.runtimeconfig.json
+C:\Users\jao\Desktop\Deusmeajuda\AS\bin\Debug\net8.0\AS.dll
+C:\Users\jao\Desktop\Deusmeajuda\AS\bin\Debug\net8.0\AS.pdb
+C:\Users\jao\Desktop\Deusmeajuda\AS\obj\Debug\net8.0\AS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jao\Desktop\Deusmeajuda\AS\obj\Debug\net8.0\AS.AssemblyInfoInputs.cache
+C:\Users\jao\Desktop\Deusmeajuda\AS\obj\Debug\net8.0\AS.AssemblyInfo.cs
+C:\Users\jao\Desktop\Deusmeajuda\AS\obj\Debug\net8.0\AS.csproj.CoreCompileInputs.cache
+C:\Users\jao\Desktop\Deusmeajuda\AS\obj\Debug\net8.0\AS.dll
+C:\Users\jao\Desktop\Deusmeajuda\AS\obj\Debug\net8.0\refint\AS.dll
+C:\Users\jao\Desktop\Deusmeajuda\AS\obj\Debug\net8.0\AS.pdb
+C:\Users\jao\Desktop\Deusmeajuda\AS\obj\Debug\net8.0\AS.genruntimeconfig.cache
+C:\Users\jao\Desktop\Deusmeajuda\AS\obj\Debug\net8.0\ref\AS.dll
